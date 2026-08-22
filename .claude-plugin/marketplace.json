@@ -1,0 +1,16 @@
+{
+  "name": "creatorwood-sushidata-gtm",
+  "owner": {
+    "name": "Sushidata"
+  },
+  "plugins": [
+    {
+      "name": "creatorwood-sushidata-gtm",
+      "source": {
+        "source": "github",
+        "repo": "georgeportillo/creatorwood-sushidata-gtm"
+      },
+      "description": "Sushidata context lake + GTM agent: prospecting, outbound, competitor battlecards, ICP signals, and outreach copy."
+    }
+  ]
+}
